@@ -11,3 +11,8 @@ function calcularAMediaDeDoisNumeros(valor1, valor2) {
     // Retorna o resultado
     return mediaDeDoisValores;
 }
+
+module.exports = {
+    somarDoisNumeros,
+}
+
